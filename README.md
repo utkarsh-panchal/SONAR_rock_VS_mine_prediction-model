@@ -28,10 +28,10 @@ The repository is structured as follows:
 ```
 sonar-mine-vs-rock/
 │
-├── README.md                  # Project documentation
-├── sonar_mine_vs_rock.py       # Main script for training and predictions
-├── sonar_data.csv              # Dataset for classification
-└── requirements.txt            # Python dependencies
+├── LICENSE                                 # License file
+├── SONAR_mine_VS_rock.ipynb                # Main script for training and predictions
+├── SONAR_mine_VS_rock_Dataset.csv          # Dataset for classification
+└── README.md                               # Project documentation
 ```
 
 The dataset consists of continuous numerical features extracted from sonar signals and a binary target variable:
